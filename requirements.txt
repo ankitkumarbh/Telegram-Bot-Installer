@@ -1,5 +1,5 @@
 future
-emoji
+emoji==1.7
 lxml
 beautifulsoup4
 requests
@@ -28,7 +28,7 @@ wikipedia
 telethon
 spamwatch
 alphabet_detector
-pyrate-limiter
+pyrate-limiter==2.6.0
 cachetools
 ujson
 pretty_errors
