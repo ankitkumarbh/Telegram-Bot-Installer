@@ -51,4 +51,4 @@ validators
 ffmpeg
 ffprobe
 humanize
-
+heroku3
