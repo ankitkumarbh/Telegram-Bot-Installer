@@ -33,6 +33,21 @@
          "required": true,
          "value": "de962c2dea3f930506384d2b547daf5e"
       },    
+      "HEROKU_APP_NAME": {
+         "description": "Enter Heroku App Name",
+         "required": true,
+         "value": ""
+      },    
+      "HEROKU_API_KEY": {
+         "description": "Enter Heroku Api Key",
+         "required": true,
+         "value": ""
+      },    
+      "DATABASE_URL": {
+         "description": "Provide Postgresql db URI",
+         "required": true,
+         "value": ""
+      },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
